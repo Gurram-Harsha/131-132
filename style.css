@@ -1,0 +1,15 @@
+body{
+   background-size: cover;
+    background-position: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 30px;
+}
+.btn{
+    background-color: aliceblue;
+    color:black ;
+    width: 200;
+    border-radius: 20px;
+}
